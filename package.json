@@ -1,0 +1,16 @@
+{
+  "name": "black-and-white",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+      "format":"prettier '**/*.js' --write"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
